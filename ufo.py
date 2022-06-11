@@ -11,32 +11,20 @@ os.system("clear")
 os.system("figlet DDOS ATTACK -f slant")
 os.system("clear")
 print ("\033[91m")
-print (" Tools By : X-THREE")
-print ("""
-██╗░░██╗██╗░░██╗██████╗░██████╗░
-╚██╗██╔╝╚██╗██╔╝██╔══██╗██╔══██╗
-░╚███╔╝░░╚███╔╝░██████╦╝██████╔╝
-░██╔██╗░░██╔██╗░██╔══██╗██╔══██╗
-██╔╝╚██╗██╔╝╚██╗██████╦╝██║░██║
-╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝""")
+print (" Tools By : INDONESIA")
+print ("""INDONESIADDOS""")
 print ("Mau Run? SUBS YT GW")
 print ("Kalau Belum Subs Gak bisa run")
 print ("SUBS XXBR")
-print ("TolS By XXBR")
+print ("TolS By indonesia")
 
 test = input()
 if test == "n":
     exit(0)
 os.system("clear")
-print ("""
-██╗░░██╗██╗░░██╗██████╗░██████╗░
-╚██╗██╔╝╚██╗██╔╝██╔══██╗██╔══██╗
-░╚███╔╝░░╚███╔╝░██████╦╝██████╔╝
-░██╔██╗░░██╔██╗░██╔══██╗██╔══██╗
-██╔╝╚██╗██╔╝╚██╗██████╦╝██║░░██║
-╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝""")
-print ("Rename Remake?")
-print ("Pm Gua")
+print ("""INDONESIADDOS""")
+print ("INDONESIA")
+print ("JANGANBACOT")
 ip = str(input(" IP SERVER:"))
 port = int(input(" PORT SERVER:"))
 choice = str(input(" GASS MANIEZ?(y/n):"))
